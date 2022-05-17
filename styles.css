@@ -97,6 +97,14 @@ section.queue svg {
   stroke: #f25940;
 }
 
+section.upset-app a {
+  color: #ff003d;
+}
+
+section.upset-app svg {
+  stroke: #ff003d;
+}
+
 section.monospace {
   position: relative;
   /* background-image: linear-gradient(
